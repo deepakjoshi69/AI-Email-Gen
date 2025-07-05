@@ -11,7 +11,7 @@ CORS(app)  # Enable CORS for frontend access
 # Email configuration
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "stl1400nikita10@gmail.com"
+EMAIL_HOST_USER = "*"
 EMAIL_HOST_PASSWORD = "dlhadvyrtvkvqcvc"  # No spaces!
 RECEIVER_EMAIL = "stl1400nikita10@gmail.com"
 
